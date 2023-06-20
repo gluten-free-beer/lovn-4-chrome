@@ -1,1 +1,1 @@
-# lovn-4-chrome
+# LOVN for Chrome Extension
